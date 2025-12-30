@@ -1,4 +1,4 @@
-# phi_shield
+# PHI-SHIELD
 
 A comprehensive PHI (Protected Health Information) monitoring and compliance system that ensures patient data is up to date, properly handled, and logs from LLM calls are redacted before storing. This system leverages Pathway as a real-time streaming and monitoring engine with dynamic context updating for LLMs, Aparavi for advanced PHI detection, redaction, and compliance tracking, and Gemini LLM for risk severity analysis from the logs.
 
